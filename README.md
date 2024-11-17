@@ -11,7 +11,7 @@ proteksi ini masi basic (minimal), jadi gak 100% nge lindungin script kalian di 
 
 ### Method 1: Gunain Vercel (Recommended)
 1. **Download Perlengkapan**
-   - [Download index.html]([https://cdn.rendigital.store/tmp/kuncisc.html](https://github.com/rencollins/proteksi-script/blob/main/kuncisc.html))
+   - [Download index.html](https://github.com/rencollins/proteksi-script/blob/main/kuncisc.html)
    - [Download proteksi.json](https://cdn.rendigital.store/tmp/proteksi.json)
 
 2. **Buat Repositori GitHub**
