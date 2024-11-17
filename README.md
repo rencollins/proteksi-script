@@ -28,7 +28,7 @@ proteksi ini masi basic (minimal), jadi gak 100% nge lindungin script kalian di 
 
 4. **Deploy on Vercel**
    - Visit [Vercel](https://vercel.com)
-   - Masuk dengan akun GitHub Anda
+   - Masuk pake akun GitHub lu
    - Klik "New Project"
    - Pilih repositori Anda
    - Klik "Deploy"
