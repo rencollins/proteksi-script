@@ -1,7 +1,7 @@
 # Proteksi script
 
 <div align="center">
-  <img src="/api/placeholder/1280/286" alt="Web Protection Banner">
+  <img src="Proyek Baru 136 [DF00897].png" alt="Proteksi Banner">
 </div>
 
 ## 📝 Baca ini
