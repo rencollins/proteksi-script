@@ -11,7 +11,7 @@ proteksi ini masi basic (minimal), jadi gak 100% nge lindungin script kalian di 
 
 ### Method 1: Gunain Vercel (Recommended)
 1. **Download Perlengkapan**
-   - [Download index.html](https://cdn.rendigital.store/tmp/kuncisc.html)
+   - [Download index.html]([https://cdn.rendigital.store/tmp/kuncisc.html](https://github.com/rencollins/proteksi-script/blob/main/kuncisc.html))
    - [Download proteksi.json](https://cdn.rendigital.store/tmp/proteksi.json)
 
 2. **Buat Repositori GitHub**
@@ -37,7 +37,7 @@ Ikuti dan simak tutorial di atas dengan seksama biar gak hah hoh 🗿
 
 ## 📁 File Kunci Sc Nya
 1. **index.js**
-   - [Download index.js](https://github.com/rencollins/proteksi-script/blob/main/kuncisc.html)
+   - [Download index.js](https://cdn.rendigital.store/tmp/index-kuncinya.js)
    - taro di folder pack bot lu sesuaikan aja sama base lu
    - Recommended (plugins - esm)
 
