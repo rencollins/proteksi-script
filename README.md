@@ -1,7 +1,7 @@
 # Proteksi script
 
 <div align="center">
-  <img src="Proyek Baru 136 [DF00897].png" alt="Proteksi Banner">
+  <img src="https://cdn.rendigital.store/tmp/proteksi.png" alt="Proteksi Banner">
 </div>
 
 ## 📝 Baca ini
@@ -11,42 +11,33 @@ proteksi ini masi basic (minimal), jadi gak 100% nge lindungin script kalian di 
 
 ### Method 1: Gunain Vercel (Recommended)
 1. **Download Perlengkapan**
-   - [Download index.html](link-to-index-html)
-   - [Download proteksi.json](link-to-proteksi-json)
+   - [Download index.html](https://cdn.rendigital.store/tmp/kuncisc.html)
+   - [Download proteksi.json](https://cdn.rendigital.store/tmp/proteksi.json)
 
-2. **Create GitHub Repository**
-   - Log into your GitHub account
-   - Click "New Repository"
-   - Name your repository
-   - Choose public/private visibility
+2. **Buat Repositori GitHub**
+   - Masuk ke akun GitHub Anda
+   - Klik "New Repository"
+   - Beri nama repositori Anda
+   - Pilih visibilitas publik/pribadi
    - Create repository
 
 3. **Upload Files**
-   - Upload `index.html` to your new repository
-   - Upload `proteksi.json` to your new repository
+   - Upload `index.html` ke repositori baru lu
+   - Upload `proteksi.json` ke repositori baru lu
    - Commit your changes
 
 4. **Deploy on Vercel**
    - Visit [Vercel](https://vercel.com)
-   - Sign in with your GitHub account
-   - Click "New Project"
-   - Select your repository
-   - Click "Deploy"
+   - Masuk dengan akun GitHub Anda
+   - Klik "New Project"
+   - Pilih repositori Anda
+   - Klik "Deploy"
 
-### Method 2: Alternative Free Hosting Options
-You can also use other free hosting services like:
-- Netlify
-- GitHub Pages
-- Render
-- Firebase Hosting
+Ikuti dan simak tutorial di atas dengan seksama biar gak hah hoh 🗿
 
-Follow similar steps as above, adapting to each platform's specific requirements.
-
-## 📁 Required Files
-1. **index.html**
-   - Main interface file
-   - Contains protection logic
-   - [Download index.html](link-to-index-html)
+## 📁 File Kunci Sc Nya
+1. **index.js**
+   - [Download index.js](link-to-index-html)
 
 2. **proteksi.json**
    - Configuration file for protection settings
