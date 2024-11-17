@@ -37,7 +37,7 @@ Ikuti dan simak tutorial di atas dengan seksama biar gak hah hoh 🗿
 
 ## 📁 File Kunci Sc Nya
 1. **index.js**
-   - [Download index.js]([link-to-index-html](https://cdn.rendigital.store/tmp/index-kuncinya.js))
+   - [Download index.js]([link-to-index-html](https://cdn.rendigital.store/tmp/index-kuncinya.js)
    - taro di folder pack bot lu sesuaikan aja sama base lu
    - Recommended (plugins - esm)
 
