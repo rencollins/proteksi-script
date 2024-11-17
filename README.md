@@ -37,36 +37,9 @@ Ikuti dan simak tutorial di atas dengan seksama biar gak hah hoh 🗿
 
 ## 📁 File Kunci Sc Nya
 1. **index.js**
-   - [Download index.js](link-to-index-html)
+   - [Download index.js]([link-to-index-html](https://cdn.rendigital.store/tmp/index-kuncinya.js))
+   - taro di folder pack bot lu sesuaikan aja sama base lu
+   - Recommended (plugins - esm)
 
-2. **proteksi.json**
-   - Configuration file for protection settings
-   - Contains security rules
-   - [Download proteksi.json](link-to-proteksi-json)
-
-## 🛠️ Configuration
-1. After downloading the files, you may need to modify `proteksi.json` to match your security requirements
-2. Open `proteksi.json` in any text editor
-3. Adjust the settings according to your needs
-4. Save the file before uploading
-
-## ⚙️ Advanced Setup
-For advanced users who want to customize the protection system:
-1. Download `index.js` for additional functionality
-2. Modify the JavaScript code as needed
-3. Test thoroughly before deploying
-
-## 📌 Important Notes
-- Always keep backup copies of your files
-- Test the system locally before deploying
-- Regularly update your protection configurations
-- Monitor your logs for any security incidents
-
-## 💡 Support
-If you need help or have questions:
-- Open an issue in this repository
-- Contact our support team
-- Check the documentation
-
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details
+## 💭 Baca Ini
+   - salin aja code nya soalnya link cdn gwe bukan redirect / autodownload
